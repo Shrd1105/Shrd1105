@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shraddha Manikpuri</h1>
+<h1 align="center">Hi 👋, I'm Shraddha</h1>
 <h3 align="center">A passionate frontend developer from Pune,India.</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/MdCwwLF6g7cAAAAC/tenor.gif">
 
