@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrd1105&label=Profile%20views&color=0e75b6&style=flat" alt="shrd1105" /> </p>
 
-&nbsp;
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6774525d70129741a86a2009?variant=dark&roadmaps=qa" alt="roadmap.sh"/></a>
-
 - 🌱 I’m currently learning **MERN stack and Python development.**
 
 - 📫 How to reach me **smanikpuri0@gmail.com**
+
+&nbsp;
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6774525d70129741a86a2009?variant=dark&roadmaps=qa" alt="roadmap.sh"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
